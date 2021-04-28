@@ -37,6 +37,7 @@ backupRepo Nullsson stn
 backupRepo Nullsson RZEditor
 backupRepo Nullsson RedZenith
 backupRepo Nullsson Maraton
+backupRepo Nullsson website
 
 # Backing up brokenprogrammer Repos
 backupRepo brokenprogrammer ircbot
@@ -79,6 +80,7 @@ backupRepo brokenprogrammer dotfiles
 backupRepo brokenprogrammer ParagraphJump
 backupRepo brokenprogrammer PlantTracker
 backupRepo brokenprogrammer prototypes
+backupRepo brokenprogrammer oskarmendel.me
 
 # Backing up Jesper Repos
 backupRepo JEPPSER AutoMapper
